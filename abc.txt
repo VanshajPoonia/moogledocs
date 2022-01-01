@@ -1,0 +1,8 @@
+Client ID values=622977720008-qirmm220s4rmtphohov407uos1rnf102.apps.googleusercontent.com
+Client secret values=7IxEMwHb4zLhFTGLnY7XFzgS
+
+GOOGLE_CLIENT_ID=256867736203-n0udlt7qc53suhljhuen7fqsqgi631pu.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
+
+Client ID values=256867736203-n0udlt7qc53suhljhuen7fqsqgi631pu.apps.googleusercontent.com
+Client secret values=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
